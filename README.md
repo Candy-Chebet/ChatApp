@@ -1,5 +1,5 @@
 *Fernet encryption algorithm*
-/n
+**
 This app uses Fernet encryption algorithm, a high-level symmetric encryption scheme that leverages AES as its underlying encryption method. 
 Fernet offers automated key generation, secure key storage, and other features that streamline the encryption process, reducing the risk of human errors. 
 Integration of the encryption and decryption code into the platform yielded promising results. User data stored in the system's administrative interface 
